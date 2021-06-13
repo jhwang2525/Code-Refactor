@@ -21,6 +21,6 @@
 ![Alt text](https://github.com/jhwang2525/code-refactor/blob/main/assets/images/mock%20up.PNG)
 
 
-Application deployed at live URL: https://jhwang2525.github.io/Code-Refactor/
+Application deployed at live URL: https://jhwang2525.github.io/code-refactor/
 
 
